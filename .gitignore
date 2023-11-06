@@ -134,6 +134,12 @@ data/
 .DATA
 DATA/
 
+# Logs
+.logs
+logs/
+.LOGS
+LOGS/
+
 # Spyder project settings
 .spyderproject
 .spyproject
